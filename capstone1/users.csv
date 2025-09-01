@@ -1,0 +1,8 @@
+﻿user_id,name,plan,signup_date
+1001,Alice Smith,free,10/1/2023
+1002,Bob Jones,PRO,10/2/2023
+1003,Charlie Brown,enterprise,10/2/2023
+1004,Diana Prince,free,10/3/2023
+1005,Clark Kent,free,10/5/2023
+1006,Alice Smith,FREE,10/1/2023
+1007,Bruce Wayne,,10/4/2023
